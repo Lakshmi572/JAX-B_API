@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <address>
+        <city>Kadapa</city>
+        <country>India</country>
+        <state>AP</state>
+    </address>
+    <studentAge>25</studentAge>
+    <studentId>101</studentId>
+    <studentName>Lakshmi</studentName>
+    <studentRank>10</studentRank>
+</student>
