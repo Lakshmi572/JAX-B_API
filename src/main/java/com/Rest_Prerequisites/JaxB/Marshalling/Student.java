@@ -1,12 +1,18 @@
-package com.Rest_Prerequisites.JaxB;
+package com.Rest_Prerequisites.JaxB.Marshalling;
 
-import javax.xml.bind.annotation.XmlRootElement;
+import javax.xml.bind.annotation.*;
 
 @XmlRootElement
+@XmlAccessorType(XmlAccessType.FIELD)
 public class Student {
+//    @XmlElement(name="Id")
+    @XmlAttribute(name="Id")
     private Integer studentId;
+    @XmlElement(name="Name")
     private String studentName;
+    @XmlElement(name="Age")
     private Integer studentAge;
+    @XmlElement(name="Rank")
     private Integer studentRank;
     private Address address;
 

@@ -1,9 +1,12 @@
-package com.Rest_Prerequisites.JaxB;
+package com.Rest_Prerequisites.JaxB.Marshalling;
 
 public class Address {
     private String city;
     private String state;
     private String country;
+
+    public Address() {
+    }
 
     public Address(String city, String state, String country) {
         this.city = city;

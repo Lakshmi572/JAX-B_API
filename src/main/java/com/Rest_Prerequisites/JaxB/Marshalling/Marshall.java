@@ -1,4 +1,4 @@
-package com.Rest_Prerequisites.JaxB;
+package com.Rest_Prerequisites.JaxB.Marshalling;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
