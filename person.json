@@ -1,0 +1,11 @@
+{
+  "studentId": 101,
+  "studentName": "Inder",
+  "studentAge": 23,
+  "studentRank": 50,
+  "address": {
+    "city": "Vizag",
+    "state": "AP",
+    "country": "India"
+  }
+}
