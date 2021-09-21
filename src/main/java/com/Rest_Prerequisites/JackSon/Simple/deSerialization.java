@@ -1,4 +1,4 @@
-package com.Rest_Prerequisites.JackSon;
+package com.Rest_Prerequisites.JackSon.Simple;
 
 import com.Rest_Prerequisites.JaxB.Marshalling.Student;
 import com.fasterxml.jackson.databind.ObjectMapper;

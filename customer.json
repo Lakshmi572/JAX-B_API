@@ -1,0 +1,16 @@
+{
+  "address": {
+    "city": "Tirupati",
+    "state": "AP",
+    "country": "India"
+  },
+  "policy": {
+    "policyName": "Jeevan",
+    "amount": 10000,
+    "startDate": "10-10-2010",
+    "endDate": "10-10-2030"
+  },
+  "cid": 1987,
+  "cname": "Aravind",
+  "cmail": "aravind@gmail.com"
+}
